@@ -13,7 +13,7 @@ Q3: What could the three properties that your function returns in Task B be usef
 A3:
 
 
-Q4: What crystal structure would you get if you replaced all Phosphor atoms with Gallium atoms (i.e., all atoms in the unit cell are the same element) in structure mp-2490 (from task B)?
+Q4: What crystal structure would you get if you replaced all Phosphor atoms with Gallium atoms in structure mp-2490 from task B? (i.e., all atoms in the unit cell are then the same element)
 
 A4:
 

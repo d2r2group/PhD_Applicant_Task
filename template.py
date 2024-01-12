@@ -7,7 +7,7 @@ from pymatgen.core import Structure
 
 # Load database
 
-# Analyze distribution of column `cleavage_energy` and plot it
+# Analyze distribution of column `cleavage_energy` and plot it (save it as a png or pdf file)
 
 # Assess correlation between columns `WF` and `Fermi`
 
