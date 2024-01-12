@@ -18,13 +18,13 @@ With basic knowledge in Python and Materials Science this should be achievable i
 
 ## Task B (Materials Informatics)
 
-1) Install `pymatgen`
-2) Get the crystal structure `mp-2490` from the Materials Project
-3) Load the structure in pymatgen
-4) Write a function that takes any pymatgen `Structure` object and returns 
+1) Install `pymatgen`.
+2) Write a function that takes any pymatgen `Structure` object and returns 
 the unit cell volume, number of unique chemical elements, and the angle between 
 lattice vectors *a* and *b*. 
-5) Test that function with the `Structure` loaded in step 3.
+3) Get the crystal structure `mp-2490` from the Materials Project.
+4) Load that structure with pymatgen.
+5) Test the function from step 2 with the loaded structure.
 
 ## Task C (Answer Questions)
 
