@@ -1,0 +1,19 @@
+Q1: Would you expect the work function and the Fermi energy level to be correlated? Explain your reasoning. (2-3 sentences total)
+
+A1:
+
+
+Q2: Surfaces can be created through cleavage of crystals in certain directions. What does the cleavage energy tell you about the surface stability of the surfaces created? (2-3 sentences total)
+
+A2:
+
+
+Q3: What could the three properties that your function returns in Task B be useful for?
+
+A3:
+
+
+Q4: What crystal structure would you get if you replaced all Phosphor atoms with Gallium atoms (i.e., all atoms in the unit cell are the same element) in structure mp-2490 (from task B)?
+
+A4:
+
