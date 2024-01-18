@@ -13,8 +13,9 @@ With basic knowledge in Python and Materials Science this should be achievable i
 
 1) Download the following database: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10381506.svg)](https://doi.org/10.5281/zenodo.10381506)
 2) Move the file `WF-CE_database_58332.json` into the repository folder.
-3) Write Python code to plot the distribution of column `cleavage_energy` (save the created plot as a png or pdf file).
-4) Are the columns `WF` and `Fermi` correlated? Write code to assess their correlation.
+3) Write Python code to plot the distribution of column `cleavage_energy`. Save the created plot as a png or pdf file.
+4) Plot the distribution of column `WF` for different numbers of *unique* elements present at the surface (determine which column you get that information from). Save the created plot as a png or pdf file.
+5) Are the columns `WF` and `Fermi` correlated? Write code to assess their correlation.
 
 ## Task B (Materials Informatics)
 
@@ -33,6 +34,6 @@ There are a 4 short questions in file `questions.txt`. Please, add your answers 
 ## Submission
 
 Please, create one file `submission.zip` containing all the files (`template.py` containing your code, 
-`questions.txt` containing your answers, and the plot you created as png/pdf) and 
+`questions.txt` containing your answers, and the two plot you created as png/pdf) and 
 send it to me via email. Thank you!
 
