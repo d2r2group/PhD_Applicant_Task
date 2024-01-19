@@ -26,6 +26,7 @@ lattice vectors *a* and *b*.
 3) Get the crystal structure `mp-2490` from the Materials Project.
 4) Load that structure with pymatgen.
 5) Test the function from step 2 with the loaded structure.
+6) Write one more function that takes any pymatgen `Structure` object and does something useful to the input. You can be creative here.
 
 ## Task C (Answer Questions)
 
